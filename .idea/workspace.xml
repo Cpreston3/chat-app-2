@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7fa7101-df09-43ab-82b4-8ae12b044162" name="Default Changelist" comment="">
-      <change afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/server.js" afterDir="false" />
+    <list default="true" id="e7fa7101-df09-43ab-82b4-8ae12b044162" name="Default Changelist" comment="updated the server and main js">
       <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/chat.html" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/chat.html" afterDir="false" />
       <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/script.js" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/script.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/server.js" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +41,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604345316172</updated>
-      <workItem from="1604345317241" duration="11741000" />
+      <workItem from="1604345317241" duration="14807000" />
     </task>
+    <task id="LOCAL-00001" summary="updated the server and main js">
+      <created>1604435122400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604435122400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated the server and main js" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the server and main js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2417" y="393" width="286" height="207" key="Github.ShareDialog" timestamp="1604427495084">
