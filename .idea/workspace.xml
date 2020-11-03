@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7fa7101-df09-43ab-82b4-8ae12b044162" name="Default Changelist" comment="" />
+    <list default="true" id="e7fa7101-df09-43ab-82b4-8ae12b044162" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/server.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/chat.html" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/chat.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/script.js" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat app2/public/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/git@github.com:Cpreston3/chat app2" />
+  </component>
   <component name="ProjectId" id="1jkPrd9oMJPZByoif3H1lhJ3yJp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,11 +42,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604345316172</updated>
-      <workItem from="1604345317241" duration="5750000" />
+      <workItem from="1604345317241" duration="11741000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2417" y="393" width="286" height="207" key="Github.ShareDialog" timestamp="1604427495084">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2417" y="393" width="286" height="207" key="Github.ShareDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1604427495084" />
+    <state x="2295" y="170" width="519" height="654" key="Github.UntrackedFilesDialog" timestamp="1604427516907">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2295" y="170" width="519" height="654" key="Github.UntrackedFilesDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1604427516907" />
   </component>
 </project>
